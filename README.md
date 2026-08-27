@@ -10,7 +10,6 @@ Customer Churn Analysis - Complete Source Code
 Project: Customer Churn Analysis
 Dataset: IBM Telco Churn (7043 records, 21 columns)
 Author: Lakshmilavanya
-GitHub: https://github.com/Lavanya4207/customer-churn-analysis
 """
 
 import pandas as pd
